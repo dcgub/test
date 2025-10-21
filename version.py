@@ -19,6 +19,8 @@
 #     .
 #     .
 # )
+
+# PROPRIETARY STUFF HERE.
 #
 #
 # This will automatically update the RELEASE-VERSION file, if
